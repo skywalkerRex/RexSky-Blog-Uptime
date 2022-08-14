@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Rex's Main Blog
-    url: https://www.rexsky-blog.com/
+    url: https://www.rexsky-blog.com/?page_id=11&lang=en
   - name: PT Site Main
     url: https://qmain.rexsky-blog.com/
   - name: PT Site Home
