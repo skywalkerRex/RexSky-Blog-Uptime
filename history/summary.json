@@ -1,7 +1,7 @@
 [
   {
     "name": "Rex's Main Blog",
-    "url": "https://www.rexsky-blog.com/",
+    "url": "https://www.rexsky-blog.com/?page_id=11&lang=en",
     "icon": "https://favicons.githubusercontent.com/www.rexsky-blog.com",
     "slug": "rex-s-main-blog",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-14": 10
+      "2022-08-14": 14
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 435,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "time": 388,
+    "timeDay": 388,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 849,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 1159,
-    "timeWeek": 1159,
-    "timeMonth": 1159,
-    "timeYear": 1159,
+    "time": 1075,
+    "timeDay": 1075,
+    "timeWeek": 1075,
+    "timeMonth": 1075,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1612,
-    "timeDay": 1612,
-    "timeWeek": 1612,
-    "timeMonth": 1612,
-    "timeYear": 1612,
+    "time": 1414,
+    "timeDay": 1414,
+    "timeWeek": 1414,
+    "timeMonth": 1414,
+    "timeYear": 1414,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 866,
-    "timeWeek": 866,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "time": 804,
+    "timeDay": 804,
+    "timeWeek": 804,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {}
   }
 ]
