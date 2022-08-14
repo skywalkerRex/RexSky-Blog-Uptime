@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-14": 432
+      "2022-08-14": 445
     }
   },
   {
@@ -42,36 +42,40 @@
     "url": "https://qbit.rexsky-blog.com/",
     "icon": "https://favicons.githubusercontent.com/qbit.rexsky-blog.com",
     "slug": "pt-site-home",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 798,
     "timeDay": 798,
     "timeWeek": 798,
     "timeMonth": 798,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-14": 0
+    }
   },
   {
     "name": "Rex's Jellyfin",
     "url": "https://jellyfin.rexsky-blog.com/",
     "icon": "https://favicons.githubusercontent.com/jellyfin.rexsky-blog.com",
     "slug": "rex-s-jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1085,
     "timeDay": 1085,
     "timeWeek": 1085,
     "timeMonth": 1085,
     "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-14": 0
+    }
   },
   {
     "name": "Rex's Gitlab",
@@ -79,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.rexsky-blog.com",
     "slug": "rex-s-gitlab",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "96.96%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
     "time": 1287,
     "timeDay": 1287,
     "timeWeek": 1287,
     "timeMonth": 1287,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2022-08-14": 0
+      "2022-08-14": 13
     }
   },
   {
@@ -98,17 +102,19 @@
     "url": "https://convert.rexsky-blog.com/",
     "icon": "https://favicons.githubusercontent.com/convert.rexsky-blog.com",
     "slug": "music-converter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 800,
     "timeDay": 800,
     "timeWeek": 800,
     "timeMonth": 800,
     "timeYear": 800,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-14": 0
+    }
   }
 ]
