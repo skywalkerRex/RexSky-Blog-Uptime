@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 1355,
+      "2024-09-21": 47,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -379,8 +380,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "65.23%",
     "uptimeYear": "85.88%",
     "time": 1329,
-    "timeDay": 1216,
-    "timeWeek": 1319,
-    "timeMonth": 1330,
-    "timeYear": 1307,
+    "timeDay": 1290,
+    "timeWeek": 1318,
+    "timeMonth": 1334,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-09-20": 20,
       "2024-09-11": 886,
@@ -487,16 +487,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.rexsky-blog.com.ico",
     "slug": "rex-s-jellyfin",
     "status": "up",
-    "uptime": "80.42%",
+    "uptime": "80.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.28%",
-    "uptimeYear": "84.94%",
-    "time": 1816,
-    "timeDay": 1604,
-    "timeWeek": 1809,
-    "timeMonth": 1785,
-    "timeYear": 1782,
+    "uptimeYear": "84.96%",
+    "time": 1815,
+    "timeDay": 1689,
+    "timeWeek": 1772,
+    "timeMonth": 1791,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2024-09-11": 886,
       "2024-09-10": 1440,
@@ -575,8 +575,7 @@
       "2023-11-08": 45,
       "2023-10-06": 42,
       "2023-09-24": 294,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -589,11 +588,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.28%",
-    "uptimeYear": "73.56%",
+    "uptimeYear": "73.58%",
     "time": 1380,
-    "timeDay": 1319,
-    "timeWeek": 1326,
-    "timeMonth": 1325,
+    "timeDay": 1308,
+    "timeWeek": 1317,
+    "timeMonth": 1330,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2024-09-11": 887,
@@ -713,8 +712,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   }
 ]
