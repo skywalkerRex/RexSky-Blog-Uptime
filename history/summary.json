@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmain.rexsky-blog.com.ico",
     "slug": "pt-site-main",
     "status": "down",
-    "uptime": "31.16%",
+    "uptime": "31.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 50,
+      "2024-09-27": 50,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -379,8 +380,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -389,14 +389,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbit.rexsky-blog.com.ico",
     "slug": "pt-site-home",
     "status": "up",
-    "uptime": "82.41%",
+    "uptime": "82.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "65.23%",
     "uptimeYear": "85.88%",
-    "time": 1327,
-    "timeDay": 1328,
-    "timeWeek": 1298,
+    "time": 1326,
+    "timeDay": 1295,
+    "timeWeek": 1312,
     "timeMonth": 1335,
     "timeYear": 1308,
     "dailyMinutesDown": {
@@ -487,16 +487,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.rexsky-blog.com.ico",
     "slug": "rex-s-jellyfin",
     "status": "up",
-    "uptime": "80.55%",
+    "uptime": "80.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.28%",
     "uptimeYear": "85.83%",
     "time": 1814,
-    "timeDay": 1994,
-    "timeWeek": 1764,
-    "timeMonth": 1803,
-    "timeYear": 1780,
+    "timeDay": 1836,
+    "timeWeek": 1793,
+    "timeMonth": 1809,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2024-09-11": 886,
       "2024-09-10": 1440,
@@ -582,15 +582,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/convert.rexsky-blog.com.ico",
     "slug": "music-converter",
     "status": "up",
-    "uptime": "71.04%",
+    "uptime": "71.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "65.28%",
-    "uptimeYear": "74.95%",
+    "uptimeYear": "75.23%",
     "time": 1379,
-    "timeDay": 1373,
-    "timeWeek": 1315,
-    "timeMonth": 1334,
+    "timeDay": 1309,
+    "timeWeek": 1314,
+    "timeMonth": 1328,
     "timeYear": 1355,
     "dailyMinutesDown": {
       "2024-09-11": 887,
@@ -704,8 +704,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   }
 ]
