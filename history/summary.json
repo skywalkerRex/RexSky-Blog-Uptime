@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmain.rexsky-blog.com.ico",
     "slug": "pt-site-main",
     "status": "up",
-    "uptime": "30.10%",
+    "uptime": "30.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.94%",
-    "uptimeMonth": "1.99%",
-    "uptimeYear": "14.83%",
+    "uptimeWeek": "31.20%",
+    "uptimeMonth": "5.27%",
+    "uptimeYear": "15.11%",
     "time": 753,
-    "timeDay": 767,
-    "timeWeek": 690,
-    "timeMonth": 690,
+    "timeDay": 750,
+    "timeWeek": 705,
+    "timeMonth": 705,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2025-04-19": 1231,
@@ -325,8 +325,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
-      "2024-04-23": 1440,
-      "2024-04-22": 1440
+      "2024-04-23": 1440
     }
   },
   {
@@ -335,15 +334,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbit.rexsky-blog.com.ico",
     "slug": "pt-site-home",
     "status": "up",
-    "uptime": "83.92%",
+    "uptime": "83.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "89.41%",
+    "uptimeYear": "89.68%",
     "time": 1347,
-    "timeDay": 1357,
-    "timeWeek": 1298,
-    "timeMonth": 1398,
+    "timeDay": 1378,
+    "timeWeek": 1299,
+    "timeMonth": 1401,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2025-03-28": 15,
@@ -409,8 +408,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
-      "2024-04-23": 1440,
-      "2024-04-22": 1440
+      "2024-04-23": 1440
     }
   },
   {
@@ -419,15 +417,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.rexsky-blog.com.ico",
     "slug": "rex-s-jellyfin",
     "status": "up",
-    "uptime": "82.71%",
+    "uptime": "82.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "90.12%",
-    "time": 1776,
-    "timeDay": 1726,
-    "timeWeek": 1750,
-    "timeMonth": 1772,
+    "uptimeYear": "90.39%",
+    "time": 1777,
+    "timeDay": 1940,
+    "timeWeek": 1749,
+    "timeMonth": 1774,
     "timeYear": 1771,
     "dailyMinutesDown": {
       "2025-03-27": 184,
@@ -488,8 +486,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
-      "2024-04-23": 1440,
-      "2024-04-22": 1440
+      "2024-04-23": 1440
     }
   },
   {
@@ -498,15 +495,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/convert.rexsky-blog.com.ico",
     "slug": "music-converter",
     "status": "up",
-    "uptime": "75.21%",
+    "uptime": "75.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "90.12%",
+    "uptimeYear": "90.39%",
     "time": 1361,
-    "timeDay": 1530,
-    "timeWeek": 1308,
-    "timeMonth": 1508,
+    "timeDay": 1448,
+    "timeWeek": 1324,
+    "timeMonth": 1511,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-03-27": 184,
@@ -565,8 +562,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
-      "2024-04-23": 1440,
-      "2024-04-22": 1440
+      "2024-04-23": 1440
     }
   }
 ]
